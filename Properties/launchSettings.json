@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "netamo_multi_relay": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7033",
+      "launchBrowser": false
+    }
+  }
+}
